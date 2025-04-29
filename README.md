@@ -9,9 +9,10 @@ This GitHub page is only used for showing my contact info and portfolio.
 I'm a passionate game developer with strong problem-solving skills and hands-on experience in team-based projects. Dedicated to crafting immersive gameplay experiences through clean code and engaging design.
 
 * 🌍  I'm based in Netherlands
-* 🖥️  See my portfolio at [linkedin](http://www.linkedin.com/in/mark-schrandt)
+* 🖥️  See my [linkedin](http://www.linkedin.com/in/mark-schrandt)
 * ✉️  You can contact me at [Mark.schrandt@hva.nl](mailto:Mark.schrandt@hva.nl)
-
+* see my [portfolio](https://markschrandt-gamedev.github.io/Portfolio/)
+  
 ### Skills
 
 
