@@ -4,6 +4,8 @@ Hi 👋 My name is Mark Schrandt
 Game developer
 --------------
 
+This GitHub page is only used for showing my contact info and portfolio.
+
 I'm a passionate game developer with strong problem-solving skills and hands-on experience in team-based projects. Dedicated to crafting immersive gameplay experiences through clean code and engaging design.
 
 * 🌍  I'm based in Netherlands
