@@ -11,7 +11,7 @@ I'm a passionate game developer with strong problem-solving skills and hands-on 
 * 🌍  I'm based in Netherlands
 * 🖥️  See my [linkedin](http://www.linkedin.com/in/mark-schrandt)
 * ✉️  You can contact me at [Mark.schrandt@hva.nl](mailto:Mark.schrandt@hva.nl)
-* see my [portfolio](https://markschrandt-gamedev.github.io/Portfolio/)
+* see my [portfolio](https://markus-gamedev.github.io/Portfolio/)
   
 ### Skills
 
